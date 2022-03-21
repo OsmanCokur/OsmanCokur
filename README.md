@@ -1,11 +1,11 @@
 # README
 ![snake svg](https://github.com/OsmanCokur/OsmanCokur/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Osman  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<h3 align="center">Join to my DEVOPS Journey 
+<h3 align="center">Join my DEVOPS Journey 
 
-<a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
+<a href="#"><img width="50%" height="auto" src="![image](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)" height="75px"/></a>
 
- <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
+ <h3 align="center"> <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" width="800">
    
 ## < About Me>
 
@@ -29,9 +29,9 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left"> 
  
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/Osman-gür-98190267/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/gurOsman/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:gurOsman@gmail.com)
+  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/osmancokur/)
+ [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/smnckr2107/)
+ [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:smnckr2107@gmail.com)
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanCokur&langs_count=10&theme=cobalt&layout=compact" alt="Osman" /></p>
 <br><br>

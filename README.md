@@ -8,8 +8,8 @@
 ## < About Me>
 
 - 👋 Hi, I’m @Osman COKUR
-- 👨‍🎓 I’m an Electronics and Communications M.Sc. Engineer
-- 👨‍🏫 I’m interested in IT, Automation and Electronic
+- 👨‍🎓 I’m an Science Teacher
+- 👨‍🏫 I’m interested in IT, Cloud Technologies, Blockchain Technology
 - 👀 I’m currently learning AWS and DevOps 
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
 - 💞️ I’m looking to collaborate on DevOps;
